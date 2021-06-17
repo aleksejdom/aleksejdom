@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Aleksej Domovec
+- 👀 I’m interested in ThreeJs, Shaders, Creative Coding Stuff
+- 🌱 I’m currently learning Shaders
+- 📫 E-Mail: mail@aleksej-dom.de
