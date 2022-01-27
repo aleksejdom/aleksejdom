@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Aleksej Domovec
-- 👀 I’m interested in ThreeJs, Shaders, Creative Coding Stuff
-- 🌱 I’m currently learning Shaders
+- 👀 I’m interested in ThreeJs, Shaders, Creative coding stuff
+- 🌱 I’m currently learning React, Threejs, Unity
 - 📫 E-Mail: aleksej.3dweb@gmail.com
